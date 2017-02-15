@@ -13,8 +13,9 @@ body {
 	
 	h2, h3, h4, { 
 	Text-align: center;
-	color:#AA5F0F;
+	color:#D6FA21;
 	}
+h2 { Text-align: center;}
 	img {
 			display: block;
 			margin:0 auto;
