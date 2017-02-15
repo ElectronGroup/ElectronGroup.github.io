@@ -1,6 +1,7 @@
 body {
 	background-color: #0D0E38;
-		color:  #8C9619;
+		color:  #E4F61E;
+	text-align: center;
 		font-size: 150%;
 		font-family: 'Chewy', cursive;
 	}
@@ -15,8 +16,7 @@ body {
 	Text-align: center;
 	color:#D6FA21;
 	}
-h2 { Text-align: center;
-color:#D6FA21}
+
 	img {
 			display: block;
 			margin:0 auto;
