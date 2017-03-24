@@ -1,40 +1,11 @@
-body {
-	background-color: #0D0E38;
-	color: #DEFF00;
-		font-size: 150%;
-		font-family: 'Chewy', cursive;
+body{
+	background-color:#8CC3C7;
+	font-size:150%;
+	font-family: 'Kalam', cursive;
+	text-align:center;
 
-	  Text-align:center;
-	}
-	h1 {
-		Text-align: center;
-		font-size: 200%;
-	}
-	
-	h2, h3, h4, { 
-	Text-align: center;
-	color:#E4F61E;
-	}
-	img {
-			display: block;
-			margin:0 auto;
-			width: 50%;
-			height: auto;
 }
-h4{
-		color:#E8E800;
-}
-
 h1{
-	color:#FF002F;
-}
-iframe {
-		display: block;
-		margin:0 auto;
-}
-.Disclaimer{
-	color:#8400FF;
-}
-.p{		color:  #1451DF;
-	text-align: center;
+	font-size:200%;
+
 }
