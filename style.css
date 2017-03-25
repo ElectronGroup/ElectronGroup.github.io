@@ -1,6 +1,6 @@
 body{
-	color:#615434;
 	background-color:#8CC3C7;
+	color:#615434;	
 	font-size:150%;
 	font-family: 'Kalam', cursive;
 	text-align:center;
@@ -8,5 +8,11 @@ body{
 }
 h1{
 	font-size:200%;
+	background:#247E97;
+	color:#615434;
+	margin:0;
 
+}
+nav{
+	margin:0;
 }
