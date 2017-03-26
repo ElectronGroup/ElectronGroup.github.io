@@ -24,6 +24,8 @@ a{
 	background:#247E97;
 	margin:0;
 	padding:0;
-	color:619434;
 
+}
+nav ul li a{
+color:619434;
 }
