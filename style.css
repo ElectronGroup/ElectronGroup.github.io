@@ -8,10 +8,10 @@ body{
 }
 h1{
 	font-size:200%;
-		padding:0px;
+		padding:0;
 	background:#247E97;
 	color:#615434;
-	margin:0px;
+	margin:0;
 
 }
 a{
@@ -19,6 +19,6 @@ a{
 
 }
 a{
-	padding:0px;
-	margin:0px;
+	padding:0;
+	margin:0;
 }
