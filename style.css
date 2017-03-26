@@ -4,6 +4,7 @@ body{
 	font-size:150%;
 	font-family: 'Kalam', cursive;
 	text-align:center;
+	margin:0;
 
 }
 header{
@@ -21,9 +22,7 @@ h1{
 }
 a{
 	background:#247E97;
-
-}
-a{
-	padding:0;
 	margin:0;
+	padding:0;
+
 }
