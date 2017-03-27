@@ -8,15 +8,15 @@ body{
 }
 header{
 	background:#247E97;
-	margin:0;
-	padding:0;
+	margin:0px;
+	padding:0px;
 }
 h1{
 	font-size:200%;
 		padding:0;
 	background:#247E97;
 	color:#615434;
-	margin:0;
+	margin:0px;
 
 }
 a{
@@ -35,6 +35,6 @@ footer{
 }
 .mid{
 	text-align:center;
-	1margin:0px 10px 
+	margin:0px 10px 
 	
 }
