@@ -39,9 +39,8 @@ footer{
 	
 }
 
-	img {
-			display: block;
+img{
 			margin:0 auto;
 			width: 50%;
-			height: auto;
+			height: 50%;
 }
