@@ -8,7 +8,7 @@ body{
 }
 header{
 	background:#247E97;
-	margin:10px;
+	margin:0px;
 	padding:0px;
 }
 h1{
@@ -39,9 +39,9 @@ footer{
 	
 }
 h2{
- font-size:175%;
+ font-size:150%;
 	text-align:center;
 	padding:0;
-	margin:20;
+	margin:30;
 	
 }
