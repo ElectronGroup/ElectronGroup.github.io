@@ -31,11 +31,11 @@ a{
 	font-size:20%;	
 }
 footer{
-	font-size:70%	
+	font-size:70%;	
 }
 .mid{
 	text-align:center;
-	margin:0px 10px 
+	margin:0px 10px;
 	
 }
 
@@ -46,6 +46,5 @@ img{
 }
 .exp{
 	color:orange;
-	font-size:80%;
 }
 
