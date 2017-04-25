@@ -1,6 +1,40 @@
-!-- Google Custom Search Element →
-<div id=”cse” style=”width:100%;”>Loading</div>
-<script src=”http://www.google.com/jsapi” type=”text/javascript”></script>
-<script type=”text/javascript”>google.load(‘search’, ‘1’);
-          google.setOnLoadCallback(function(){var cse = new google.search.
-          CustomSearchControl();cse.draw(‘cse’);}, true);</script>
+<!DOCTYPE html>
+<html>
+<head>
+		<title>ToolBox-X</title>
+<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="icon" href="http://i.imgur.com/Xqf1D1C.png">
+
+<style> 
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: lightblue;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    color:brown;
+}
+
+input[type=text]:focus {
+    width: 100%;
+}
+</style>
+</head>
+<body>
+
+<p>Animated search form:</p>
+
+<form>
+  <input type="text" name="search" placeholder="Search..">
+</form>
+
+</body>
+</html>
