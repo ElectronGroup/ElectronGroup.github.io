@@ -37,6 +37,27 @@
 
     class="button black" value="8" onclick='v("8")'>
     <input type="button" class="button black" value="9" 
+	   <script>
+	    function c(val)
+{
+document.getElementById("d").value=val;
+}
+function v(val)
+{
+document.getElementById("d").value+=val;
+}
+function e() 
+{ 
+try 
+{ 
+  c(eval(document.getElementById("d").value)) 
+} 
+catch(e) 
+{
+  c('Error') 
+} 
+}  
+	</script>
 
     onclick='v("9")'><input type="button" 
 
