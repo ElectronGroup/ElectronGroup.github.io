@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title>ToolBox-X</title>
+<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="style2.css">
+	<link rel="icon" href="http://i.imgur.com/Xqf1D1C.png">
+  </head>
+  <body>
+	  <p class="warning"> WHATEVER YOU DO, DO NOT HIGHLIGHT OR CLICK BELOW THIS TEXT</p>
+  <a href="game3.html" class="hidden">GO!</a>
+  <a href="null">GO!</a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </body>
+  </html>
