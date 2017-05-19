@@ -1,9 +1,13 @@
 body{
 background-color:black;
   color:purple;
+  text-align:center;
 }
 .warning{
  color:red;
    border:orange;
    font-size:300%;
+}
+a{
+ color:black 
 }
