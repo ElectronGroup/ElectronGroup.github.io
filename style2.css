@@ -1,9 +1,9 @@
 body{
-background-color:black
-  color:purple
+background-color:black;
+  color:purple;
 }
 .warning{
- color:red
-   border:orange
-   
+ color:red;
+   border:orange;
+   font-size:300%;
 }
