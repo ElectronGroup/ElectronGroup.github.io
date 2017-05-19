@@ -13,3 +13,7 @@ a{
    background:green;
    text-decoration:none;
 }
+a.hidden{
+ color:black;
+  text-decoration:none;
+}
