@@ -12,6 +12,7 @@ a{
  color:black;
    background:green;
    text-decoration:none;
+  font-size:200%;
 }
 a.hidden{
  color:black;
