@@ -6,9 +6,13 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="icon" href="http://i.imgur.com/Xqf1D1C.png">
 </head>
-<form id="searchbox" action="">
-    <input id="search" type="text" placeholder="Type here">
-    <input id="submit" type="submit" value="Search">
-</form>
+<body>
+	<div cc-tooltip-options="{&quot;trigger&quot;:&quot;click&quot;,&quot;timer&quot;:7000,&quot;interactive&quot;:true}" cc-tooltip-position="top" cc-tooltip="" class="segment-component" ng-class="{media: component.le.type === 'media', highlight: $ctrl.isComponentHighlight(component.le), 'segment-component-active': $ctrl.isComponentActive(component.le)}" ng-click="$ctrl.onClickComponent(component.le, $event)" ng-dblclick="$ctrl.onClickComponent(component.le, $event)" ng-if="!$ctrl.segment.node.isTpaNode() &amp;&amp; !$ctrl.flags.onStageIndications" ng-mouseenter="$ctrl.onMouseEnterComponent(component.le)" ng-mouseleave="$ctrl.onMouseLeaveComponent()" ng-repeat="component in $ctrl.components" ng-style="$ctrl.componentsStyle[component.id]" tabindex="0" role="button" style="width: 363.538px; height: 113.077px; top: 141.308px; left: -1px;">
+<div class="overlay-interact" ng-class="{ontop:$ctrl.isNotEnoughSpaceInComponent($index)}">
+<div class="interact-wrap">
+<div class="overlay-title">Contact Form</div>
+</div>
+</div>
+</div>
 </body>
 </html>
