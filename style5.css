@@ -101,6 +101,16 @@ a{
 	border-radius:20%;
 
 }
+.title{
+	text-decoration:none;
+	
+	color:yellow;
+	
+	font-size:200%;
+
+	margin:0;
+
+}
 
 .this{
 
