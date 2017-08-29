@@ -88,7 +88,7 @@ a{
 
 	background:#A29D9D;
 
-	margin:3px;
+	margin:2px;
 
 	padding:0;
 
@@ -98,7 +98,7 @@ a{
 
 	border:1px solid black;
 
-	border-radius:20%;
+	border-radius:30%;
 
 }
 .title{
@@ -108,9 +108,9 @@ a{
 	
 	font-size:200%;
 
-	margin:0;
+	margin:0px;
 	
-	padding:0;
+	padding:0px;
 	
 	border-radius:0;
 	
