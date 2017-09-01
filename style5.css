@@ -54,7 +54,7 @@ border: 1px solid black;
 
 body{
 
-	color:#AB0707;
+	color:#256c9e;
 
 	background-color:#3399FF;
 
@@ -64,7 +64,7 @@ body{
 
 h1{
 
-	color:yellow;
+	color:#664822;
 
 	font-size:200%;
 
@@ -74,7 +74,7 @@ h1{
 
 h2{
 
-	color:yellow;
+	color:#664822;
 
 	font-size:180%;
 
@@ -104,7 +104,7 @@ a{
 .title{
 	text-decoration:none;
 	
-	color:yellow;
+	color:#664822;
 	
 	font-size:220%;
 
@@ -144,7 +144,7 @@ a{
 
 	font-size: 35%;
 
-	color:yellow;
+	color:#664822;
 
 	padding:0;
 
@@ -156,7 +156,7 @@ a{
 
 	font-size: 90%;
 
-	color:yellow;
+	color:#20618e;
 
 	padding:0;
 
