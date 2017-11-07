@@ -1,13 +1,14 @@
 body{
- background-color:#060f72;
- color:#c92f14;
+ 	background-color:#060f72;
+ 	color:#c92f14;
 	text-align:center;
 }
 a{
- background-color:#5fd132;
- color: black;
- 
- font-size: 220%;
+ 	background-color:#5fd132;
+ 	
+	color: black;
+	
+	font-size: 220%;
 
 	margin:2px;
 
