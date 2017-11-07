@@ -5,4 +5,16 @@ body{
 a{
  background-color:#5fd132;
  color: black;
+ 
+ font-size: 220%;
+
+	margin:2px;
+
+	padding:0;
+
+	text-decoration:none;
+
+	border:.5px solid #7a7984;
+
+	border-radius:10%;
 }
