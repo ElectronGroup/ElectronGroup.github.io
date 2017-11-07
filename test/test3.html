@@ -11,12 +11,12 @@ function myFunction() {
 }
 </script>
 			<script>
-window.onclick = myFunction;
+				window.onclick = myFunction;
 
-function myFunction() {
-    document.getElementsByTagName("BODY")[0].style.backgroundColor = "orange";
-}
-</script>
+				function myFunction() {
+ 				   document.getElementsByTagName("BODY")[0].style.backgroundColor = "orange";
+					}
+					</script>
 			<style>
 /* Popup container - can be anything you want */
 .popup {
@@ -91,6 +91,12 @@ function myFunction() {
     popup.classList.toggle("show");
 }
 </script>
+				<script>
+			    function visitPage(){
+			        window.location='http://www.example.com';
+			    }
+				</script>
+				<button onclick="visitPage();">Visit Page Now</button>
 		</body>
 </html>
 
