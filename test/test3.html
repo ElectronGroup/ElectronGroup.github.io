@@ -7,7 +7,14 @@
 
 <script>
 function myFunction() {
-    document.getElementById("demo").innerHTML = <a href="test.html">test</a>;
+    document.getElementById("demo").innerHTML = "<a href="test.html">test</a>";
+}
+</script>
+			<script>
+window.onclick = myFunction;
+
+function myFunction() {
+    document.getElementsByTagName("BODY")[0].style.backgroundColor = "orange";
 }
 </script>
 		</body>
