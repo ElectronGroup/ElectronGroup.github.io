@@ -29,3 +29,20 @@ p{
 color:#dda523;	
 	font-size:150%;
 }
+.main{
+	 background-color:#28ba9a;
+ 	
+	color: black;
+	
+	font-size: 250%;
+
+	margin:2px;
+
+	padding:0;
+
+	text-decoration:none;
+
+	border:.5px solid #7a7984;
+
+	border-radius:15%;	
+}
