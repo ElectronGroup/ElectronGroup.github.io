@@ -8,26 +8,24 @@
 
 <script>
 function myFunction() {
-    document.getElementById("demo").innerHTML = "<a href="test.html">test</a>";
+    document.getElementById("demo").innerHTML = "If this works email me!";
 }
 </script>
 			<script>
 				window.onclick = myFunction;
 
 				function myFunction() {
- 				   document.getElementsByTagName("BODY")[0].style.backgroundColor = "orange";
+ 				   document.getElementsByTagName("BODY")[0].style.backgroundColor = "blue";
 					}
 					</script>
-			<style>
-<div class="popup" onclick="myFunction()">Click me!
-  <span class="popuptext" id="myPopup">Popup text...</span>
+			<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="test.html">Test</a>
+    <a href="test/test1.html">Test1</a>
+    <a href="test/test2.html">Test2</a>
+  </div>
 </div>
-				<script>
-			    function visitPage(){
-			        window.location='http://www.example.com';
-			    }
-				</script>
-				<button onclick="visitPage();">Visit Page Now</button>
-		</body>
+	</body>
 </html>
 
