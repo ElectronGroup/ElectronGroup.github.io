@@ -29,7 +29,7 @@ p{
 color:#dda523;	
 	font-size:150%;
 }
-.main{
+.main:link{
 	 background-color:#28ba9a;
  	
 	color: black;
