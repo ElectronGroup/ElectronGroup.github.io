@@ -6,10 +6,10 @@ body{
 	border-radius: 15px 50px;
 }
 p{
- text-size:250%;
+ font-size:250%;
 }
  h1{
-  text-size:450%;
+  font-size:450%;
    color:#6d6962;
 }
 footer{
