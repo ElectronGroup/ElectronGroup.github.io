@@ -22,12 +22,12 @@ footer{
 
 header{
 	background:#0a1472;
-	margin:15px;
-	padding:10px;
+	margin:5px;
+	padding:5px;
 }
 a{
 	text-decoration:none;
-	font-size:275%;
+	font-size:225%;
 	background-color:#0a1467;
 	border:.75px solid black;
 	border-radius:10%;
