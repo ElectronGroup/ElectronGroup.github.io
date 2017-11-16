@@ -5,13 +5,22 @@ body{
      font-family: 'Berkshire Swash', cursive;
 	border-radius: 15px 50px;
 }
+
 p{
 font-size: 150%;
 }
+
  h1{
   font-size:400%;
    color:#6d6962;
 }
+
 footer{
 	font-size:20%;	
+}
+
+header{
+	background:#0a1472;
+	margin:0px;
+	padding:0px;
 }
