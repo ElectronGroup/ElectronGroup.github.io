@@ -1,0 +1,32 @@
+body{
+ text-align:center;
+  color:#777269;
+    background-color:#77bee5;
+     font-family: 'Berkshire Swash', cursive;
+	border-radius: 15px 50px;
+}
+
+p{
+font-size: 150%;
+}
+
+ h1{
+  font-size:400%;
+   color:#6d6962;
+	margin-top: 0; 
+}
+
+footer{
+	font-size:20%;	
+}
+
+header{
+	background:#0a1472;
+	margin:0px;
+	padding:0px;
+}
+a{
+	text-decoration:none;
+	font-size:225%;
+	margin:20px;
+}
