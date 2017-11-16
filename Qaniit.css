@@ -30,5 +30,7 @@ a{
 	font-size:225%;
 	margin:20px;
 	background-color:#0a1467;
+	border:.75px solid black;
+	border-radius:10%;
 	
 }
