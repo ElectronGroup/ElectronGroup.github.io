@@ -3,9 +3,10 @@ body{
   color:#777269;
     background-color:#77bee5;
      font-family: 'Berkshire Swash', cursive;
+	border-radius: 15px 50px;
 }
 p{
- text-size:150%;
+ text-size:250%;
 }
  h1{
   text-size:450%;
