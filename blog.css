@@ -1,6 +1,6 @@
 body{
   background-color:#99adaf;
-  font-size:50%;
+  font-size:150%;
   color:#910e0e;
   font-family: 'Nanum Pen Script', cursive;
   text-align: center;
@@ -8,4 +8,8 @@ body{
 h1{
   color:#879906;
   font-size:300%;
+}
+footer{
+ font-size:20%
+   color:black;
 }
