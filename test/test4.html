@@ -5,14 +5,25 @@
 </head>
 <body>
   <script>
-	function dropDown(){
-		var beep = "Beepin Test";
-		document.getElementById("demo").innerHTML = beep;
-		if (onmouseover = false) { dropDown = false
-		} else {
-			dropDown = true
-		}
-	}
+//	function dropDown(){
+//		var beep = "Beepin Test";
+//		document.getElementById("demo").innerHTML = beep;
+//	}
+$("element").bind
+({
+    mouseover:
+        function ()
+        {
+        },
+    mouseout:
+        function ()
+        {
+        }
+});
+
+$("element").unbind('mouseover mouseout');	  
+	  
+	  
   </script>
 	<button onmouseover="dropDown()">Test</button>
 			<p id="demo"></p>
