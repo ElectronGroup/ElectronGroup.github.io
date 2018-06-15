@@ -5,6 +5,7 @@ body{
 	background-position:center;
 	background-repeat:no-repeat;
 	background-size:cover;
+	font-family: 'Gloria Hallelujah', cursive;
 }
 p{
 	font-size: 120%;
@@ -38,4 +39,21 @@ img{
 iframe{
 	display: block;
 	margin: auto;
+}
+.hi{
+	width:150px;
+	hieght:100px;
+	margin:auto;
+	display: block;
+	border-radius:5%;
+	border:none;
+}
+.bulbasaur{
+		font-size: 80%;
+}
+.bulba{
+		background-color:antiquewhite;
+		border:none;
+		font-size:120%;
+		color:plum;
 }
