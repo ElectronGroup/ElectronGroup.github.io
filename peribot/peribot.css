@@ -8,16 +8,22 @@ body{
 
 }
 header{
-	background:#108712;
+	background:#90D691;
 	margin:0px;
 	padding:0px;
 }
 h1{
 	font-size:200%;
-		padding:0;
+	padding:0;
 	color:#0D861E;
 	margin:0px;
 
+}
+h2{
+	font-size:130%;
+	padding:0;
+	color:#0D861E;
+	margin:0px;
 }
 a{
 	color:#63CA71;
@@ -34,8 +40,8 @@ footer{
 	font-size:70%;	
 }
 .changelog{
-  background-color:white;
-  color:black
+  color:black;
+  font-size: 60%;
 	
 }
 
